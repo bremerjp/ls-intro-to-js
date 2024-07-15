@@ -11,7 +11,7 @@ foo;
 Object - Static
 String - Static
 Array, String - Instance
-String Object, Array Nnumber - Instance
+String, Object, Array, Number - Instance
 
 
 6. index, lazyDog, operand2
